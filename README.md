@@ -1,4 +1,4 @@
-![logo](https://github.com/Agrawal-Krishna/Agrawal-Krishna/blob/main/Banner_profile.png)
+![logo](https://github.com/Agrawal-Krishna/Agrawal-Krishna/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(8).png)
 <h1 align="center">Hi 👋, I'm Krishna Agrawal</h1>
 <h3 align="center">A passionate entrepreneur with deep expertise in Product Management and Business Strategy</h3>
 

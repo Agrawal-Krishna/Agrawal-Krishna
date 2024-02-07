@@ -11,9 +11,6 @@
 - 📫 How to reach me **krishna7@bu.edu**
 
 - 📄 Know about my experiences [LINK](https://drive.google.com/file/d/1O_-v_EFwY7a31AIswG2XQE0xvRG-SQgw/view?usp=sharing)
-  
-- [![Figma Design](https://via.placeholder.com/800x450.png?text=Click+to+View+Figma+Design)](https://www.figma.com/proto/HHZjbyNCzMCypGO0lXZPpn/DSW?node-id=436-3978&starting-point-node-id=362%3A2529&mode=design&t=rBD6cqijdj1dPADF-1)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
